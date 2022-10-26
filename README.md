@@ -2,7 +2,7 @@
 Code from [@jarsick_official](https://www.tiktok.com/@jarsick_official) TikTok Profile
 
 ## P5js Web Editor Projects:
-- [***Rubik's Cube***](https://editor.p5js.org/jarsickgames/sketches/D1OSo4xDf)
+- [***Infinite Skull Animation***](https://editor.p5js.org/jarsickgames/sketches/ggXUW25yk)
 - [***4D Tesseract***](https://editor.p5js.org/jarsickgames/sketches/e93YvwWoU)
 - [***ASCII Webcam***](https://editor.p5js.org/jarsickgames/sketches/0gKZ0K0bF)
 - [***Space Shooter Simple Game***](https://editor.p5js.org/jarsickgames/sketches/nbAhZJHpp)
