@@ -2,7 +2,7 @@
 Code from [@jarsick_official](https://www.tiktok.com/@jarsick_official) TikTok Profile
 
 ## P5js Web Editor Projects:
-  [***Little Synth***](https://editor.p5js.org/jarsickgames/sketches/LILO7xgXN)
+- [***Little Synth***](https://editor.p5js.org/jarsickgames/sketches/LILO7xgXN)
 - [***Dice Camera***](https://editor.p5js.org/jarsickgames/sketches/xTHD2f4MV)
 - [***Simple 3D Water***](https://editor.p5js.org/jarsickgames/sketches/VaZh5G6s0)
 - [***Infinite Skull Animation***](https://editor.p5js.org/jarsickgames/sketches/ggXUW25yk)
